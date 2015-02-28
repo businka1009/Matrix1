@@ -6,7 +6,7 @@ using namespace std;
 
 float f(float x)
 {
-	return pow(x,3) / 6 + 2;
+	return pow(x,3) / 7 + 2;
 }
 
 float pryam(float a, float b, int n)
